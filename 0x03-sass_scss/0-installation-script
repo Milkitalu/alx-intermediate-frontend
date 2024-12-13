@@ -1,0 +1,22 @@
+# Steps to install Sass inside my project file:To install Sass, I followed steps used for node.js 
+
+Install Sass Using npm (Node.js Package Manager)
+This method works on all platforms (Windows, macOS, Linux).
+
+
+**Install Node.js:**
+
+     Download and install Node.js from nodejs.org.
+
+**Install Sass:**
+
+Open your terminal or command prompt.
+Run the following command to install Sass globally:
+
+    npm install -g sass
+
+**Verify Installation:**
+
+Check the installed version of Sass to ensure it's installed correctly:
+
+    sass --version
